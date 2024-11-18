@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#tribute_page {
+  background-color: #f5f5dc;
+}
+#Hero_Section {
+  padding: 20px 0;
+  margin-bottom: 30px;
+}
+#Hero_Section img {
+  display: flex;
+  margin: 0 auto;
+  border-radius: 50%;
+  border: 2px double black;
+  box-shadow: -5px -5px 30px rgba(0, 0, 0, 0.1),
+    10px 10px 30px rgba(0, 0, 0, 0.2);
+  margin-bottom: 10px;
+}
+#Hero_Section h1,
+h3 {
+  text-align: center;
+  color: #654321;
+}
+#introduction-section {
+  margin-bottom: 20px;
+}
+#introduction-section h1 {
+  text-align: center;
+  color: #654321;
+  margin-bottom: 10px;
+}
+#introduction-section p {
+  font-size: 18px;
+  color: #333;
+  padding: 0 20px;
+}
+
+.qualification .edu {
+  text-align: center;
+  margin-bottom: 10px;
+  margin-left: -35px;
+}
+.qualification span {
+  margin-left: 200px;
+}
+#Ending {
+  padding: 20px;
+  font-size: 18px;
+}
+#Ending h1 {
+  color: #654321;
+  margin-bottom: 10px;
+}
